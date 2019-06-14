@@ -1,3 +1,4 @@
+.DS_Store
 
 # Created by https://www.gitignore.io/api/python,pycharm,intellij
 # Edit at https://www.gitignore.io/?templates=python,pycharm,intellij
@@ -262,3 +263,4 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/python,pycharm,intellijs
+.DS_Store
